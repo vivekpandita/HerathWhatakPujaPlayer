@@ -1,4 +1,4 @@
-package com.vrp.herathwhatakpujaplayer;
+package com.vrp.herath.whatakpuja.player;
 
 import android.content.Intent;
 import android.os.Bundle;

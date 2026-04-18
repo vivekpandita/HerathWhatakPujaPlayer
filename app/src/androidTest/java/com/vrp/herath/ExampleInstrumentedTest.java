@@ -1,4 +1,4 @@
-package com.vrp.herathwhatakpujaplayer;
+package com.vrp.herath;
 
 import android.content.Context;
 

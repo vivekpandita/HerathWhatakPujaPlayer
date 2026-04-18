@@ -1,7 +1,6 @@
-package com.vrp.herathwhatakpujaplayer; // Check your package name!
+package com.vrp.herath.whatakpuja.player; // Check your package name!
 
 import android.content.Context;
-import android.content.DialogInterface;
 import android.content.SharedPreferences;
 import android.media.MediaPlayer;
 import android.os.Bundle;

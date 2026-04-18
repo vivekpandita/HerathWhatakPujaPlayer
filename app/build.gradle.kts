@@ -4,14 +4,14 @@ plugins {
 }
 
 android {
-    namespace = "com.vrp.herathwhatakpujaplayer" // Verify this matches your package name
-    compileSdk = 34
+    namespace = "com.vrp.herath.whatakpuja.player" // Verify this matches your package name
+    compileSdk = 35
 
     defaultConfig {
-        applicationId = "com.vrp.herathwhatakpujaplayer"
+        applicationId = "com.vrp.herath.whatakpuja.player"
         minSdk = 24
-        targetSdk = 34
-        versionCode = 1
+        targetSdk = 35
+        versionCode = 2
         versionName = "1.0"
 
         testInstrumentationRunner = "androidx.test.runner.AndroidJUnitRunner"
